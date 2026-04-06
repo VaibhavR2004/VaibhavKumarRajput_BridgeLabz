@@ -1,0 +1,14 @@
+I am a fix File which will be used to fix the bug.
+
+
+add comment to file 3.
+
+Bug is sorted out.
+One More bug is detected and fixed.
+fourth bug fixed.
+
+fifth bug fixed.
+
+another fix messagefor green mode.
+
+another fix message for red mode.
