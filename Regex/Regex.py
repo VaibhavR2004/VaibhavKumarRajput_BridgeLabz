@@ -55,4 +55,3 @@ with open(r'Regex\data.txt','r')as f:
 
     for match in matches:
         print(match)
-

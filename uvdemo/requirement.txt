@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+alembic
+python-dotenv
+passlib
+bcrypt
+flask
+flask-sqlalchemy
+flask-login
+flask-mail
